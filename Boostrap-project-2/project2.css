@@ -1,0 +1,347 @@
+*{
+    margin: 0px;
+}
+.zola1{
+    width:80px  ;
+}
+.logIn{
+    margin-left: 20px;
+    padding-top: 20px;
+    display: inline-block;
+    margin-right: 20px;
+
+}
+.start{
+   margin-left: 20px;
+   
+}
+.inbox3{
+
+    text-align: center;
+    height: 50px;
+    padding: 10px;
+
+    color: aliceblue;
+}
+.get{
+    font-size: 20px;
+    font-weight: bold;
+}
+.off{
+    font-size: 20px;
+    font-weight: bold;
+}
+.sec1{
+    background-color: crimson;
+    margin-top: 15px;
+}
+.sec2{
+   background-color: darkseagreen;
+   /* background-color: lightgrey; */
+   
+}
+.aa{
+    padding-top:15px;
+    padding-left: 10px;
+}
+
+.inbox5{
+    text-align: center;
+
+}
+.gift{
+    background-color: antiquewhite;
+    border-radius: 50%;
+    padding: 10px;
+}
+.inbox6{
+    text-align: center;
+    padding-top: 80px;
+}
+.inbox7{
+    text-align: center;
+    padding-top:80px ;
+}
+.blender{
+    background-color: antiquewhite;
+    border-radius: 50%;
+    padding: 10px;
+}
+.offer{
+    background-color: antiquewhite;
+    /* border-radius:50% ; */
+    padding:10px ;
+}
+.inbox8{
+    text-align: center;
+    padding-top: 80px;
+}
+.truck{
+    background-color: antiquewhite;
+    border-radius: 50%;
+    padding-top: 80px;
+    padding:  10px;
+    text-align: center;
+}
+.inbox9{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.inbox10{
+    text-align: center;
+    margin-top: 50px;
+    font-size: x-large;
+}
+
+.red{
+    border-bottom: 1px solid red;
+}
+.bold{
+    border-bottom: 1px solid red;
+}
+.text {
+    font-size: large;
+    text-align: center;
+    margin-top: 25px;
+}
+.cuisin{
+    padding-top: 50px;
+}
+.cu{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color:white;
+   font-style: oblique;
+   font-weight: bold;
+   font-size: large;
+}
+.inbox11{
+    text-align: center;
+}
+.grp{
+    padding-top: 50px;
+
+}
+.ox{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ color: white;
+ font-style: inherit;
+ font-weight: bolder;
+ text-align: center;
+ font-size: large;
+}
+.inbox12{
+    text-align: center;
+}
+.blend{
+    padding-top: 50px;
+}
+.kitchen{
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+}
+.inbox13{
+    text-align: center;
+}
+.ban{
+   color:white;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: large;
+   font-weight: bold;
+
+}
+.crate{
+    padding-top: 50px;
+}
+.inbox14{
+    text-align: center;
+}
+.inbox15{
+    text-align: center;
+    padding-top: 50px;
+}
+.sec3{
+    background-color: salmon;
+    margin-top: 120px;
+}
+.inbox19{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 40px;
+
+}
+.join{
+    font-size: 25px;
+}
+.love{
+    border-radius: 50%;
+    text-align: center;
+}
+.wedd{
+    border-radius:50% ;
+}
+.miss{
+    border-radius: 50%;
+
+}
+ .inbox20,.inbox21,.inbox22{
+    min-height: 200px;
+    text-align: center;
+}
+.star{
+    text-align: center;
+
+}
+
+
+.innerbox{
+    width: 100%;
+    text-align: center;
+}
+.car{
+    margin-top: 15px;
+    display: inline-block;
+}
+.bb{
+    margin-top: 25px;
+}
+.dd{
+    margin-top: 25px;
+}
+.sec4{
+    background-color: rgb(228, 211, 197);
+    margin-top: 150px;
+}
+.inbox24{
+    padding: 30% 0%;
+}
+.sec4{
+    margin-top:70px;
+}
+.fr{
+    color: red;
+    border-bottom: 1px solid red;
+}
+.pr{
+    border-bottom: 1px solid red;
+}
+.make{
+    text-align: center;
+}
+.inbox25{
+    margin-top: 3%;
+}
+.tr{
+    border-radius: 50%;
+    background-color: rgb(228, 220, 210);
+    padding-top:80px ;
+    padding: 10px;
+    text-align: center;
+}
+.inbox26,.inbox27,.inbox28,.inbox29,.inbox30,.inbox31{
+    text-align: center;
+}
+.micro{
+    border-radius: 50%;
+    background-color: rgb(228, 220, 210);
+    padding-top:80px ;
+    padding: 10px;
+    text-align: center;
+}
+.price{
+    border-radius: 50%;
+    background-color: rgb(228, 220, 210);
+    padding-top:80px ;
+    padding: 10px;
+    text-align: center;
+}
+.low{
+    border-radius: 50%;
+    background-color: rgb(228, 220, 210);
+    padding-top:80px ;
+    padding: 10px;
+    text-align: center;
+}
+.thank{
+    border-radius: 50%;
+    background-color: rgb(228, 220, 210);
+    padding-top:80px ;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.custom{
+    border-radius: 50%;
+    background-color: rgb(228, 220, 210);
+    padding-top:80px ;
+    padding: 10px;
+    text-align: center;
+}
+.sec5{
+    background-color: indianred;
+    margin-top: 100px;
+}
+.rg{
+    text-align: center;
+    margin-top: 25px;
+    /* padding-top: 80px; */
+    font-style: italic;
+    color: white;
+    font-weight: 90;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-size: 65px;
+    padding: 50px;
+}
+.now{
+    text-align: center;
+    padding-bottom: 50px;
+    display:inline-block ;
+    text-align: center;
+}
+.inbox33{
+    text-align: center;
+    margin-top: 20px;
+    font-size:25px ;
+    
+}
+.cake{
+    padding-top: 60px;
+    font-size: 50px;
+}
+.top{
+     margin-top: 20px;
+     display: inline-block;
+}
+.inbox29,.inbox30,.inbox31,.inbox27,.inbox28,.inbox26{
+    margin-top: 25px;
+}
+.aa{
+    font-size: large;
+}
+.inbox34{
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    margin-top: 20px;
+}
+.inbox19{
+    margin-top: 100px;
+}
+.inbox25{
+    margin-top: 100px;
+}
+.inbox34{
+    margin-top: 20px;
+}
+.inbox21,.inbox20,.inbox22{
+    margin-top: 40px;
+}
+.make{
+    padding-bottom: 40px;
+}
